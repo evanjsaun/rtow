@@ -8,5 +8,7 @@ add_executable(rtow main.cc
     hittable.h
     sphere.h
     hittable_list.h
-    rtow.h)
+    rtow.h
+    interval.h
+    camera.h)
 
