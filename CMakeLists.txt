@@ -6,5 +6,7 @@ add_executable(rtow main.cc
     color.h
     ray.h
     hittable.h
-    sphere.h)
+    sphere.h
+    hittable_list.h
+    rtow.h)
 
