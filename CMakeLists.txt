@@ -4,5 +4,7 @@ project(rtow VERSION 0.1.0 LANGUAGES C CXX)
 add_executable(rtow main.cc
     vec3.h
     color.h
-    ray.h)
+    ray.h
+    hittable.h
+    sphere.h)
 
