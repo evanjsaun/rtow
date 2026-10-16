@@ -10,5 +10,6 @@ add_executable(rtow main.cc
     hittable_list.h
     rtow.h
     interval.h
-    camera.h)
+    camera.h
+    material.h)
 

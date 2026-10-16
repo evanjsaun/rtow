@@ -35,4 +35,4 @@ class hittable_list : public hittable {
         }
 };
 
-#endif
+#endif // HITTABLE_LIST_H

@@ -21,4 +21,4 @@ class ray {
         vec3 dir;
 };
 
-#endif
+#endif // RAY_H

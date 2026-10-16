@@ -49,4 +49,4 @@ inline double random_double(double min, double max) {
 #include "vec3.h"
 #include "interval.h"
 
-#endif
+#endif // RTOW_H
