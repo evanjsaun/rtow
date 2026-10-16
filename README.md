@@ -12,9 +12,9 @@ Ray Tracing in a Weekend
 - [x] 6. Surface Normals and Multiple Objects
 - [x] 7. Moving Camera Code Into Its Own Class
 - [x] 8. Antialiasing
-- [ ] 9. Diffuse Materials
-- [ ] 10. Metal
-- [ ] 11. Dielectrics
-- [ ] 12. Positionable Camera
+- [x] 9. Diffuse Materials
+- [x] 10. Metal
+- [x] 11. Dielectrics
+- [x] 12. Positionable Camera
 - [ ] 13. Defocus Blur
 - [ ] 14. Final Render
