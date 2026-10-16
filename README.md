@@ -18,3 +18,5 @@ Ray Tracing in a Weekend
 - [x] 12. Positionable Camera
 - [x] 13. Defocus Blur
 - [x] 14. Final Render
+
+<img width="640" height="360" alt="render" src="https://github.com/user-attachments/assets/e5f34624-b7e4-4a31-92bd-3b020d76d0f1" />
