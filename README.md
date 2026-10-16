@@ -16,5 +16,5 @@ Ray Tracing in a Weekend
 - [x] 10. Metal
 - [x] 11. Dielectrics
 - [x] 12. Positionable Camera
-- [ ] 13. Defocus Blur
-- [ ] 14. Final Render
+- [x] 13. Defocus Blur
+- [x] 14. Final Render
